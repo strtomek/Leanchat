@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382654082855",
+    "firebase_url": "https://leanchat-2a7b9.firebaseio.com",
+    "project_id": "leanchat-2a7b9",
+    "storage_bucket": "leanchat-2a7b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382654082855:android:686d01361982e742",
+        "android_client_info": {
+          "package_name": "pl.leancode.leanchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382654082855-46epc7cdfclcsle44c2jsa65uvob7sc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrtfTlqJYcoJJCXAfh0RolvhfnV00joCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382654082855-46epc7cdfclcsle44c2jsa65uvob7sc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
